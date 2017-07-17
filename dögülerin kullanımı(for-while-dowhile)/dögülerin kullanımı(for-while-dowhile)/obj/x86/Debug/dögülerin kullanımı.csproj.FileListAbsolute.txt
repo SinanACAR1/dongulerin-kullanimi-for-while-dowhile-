@@ -1,0 +1,7 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\bin\Debug\dögülerin kullanımı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\bin\Debug\dögülerin kullanımı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\obj\x86\Debug\dögülerin_kullanımı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\obj\x86\Debug\dögülerin_kullanımı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\obj\x86\Debug\dögülerin kullanımı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\obj\x86\Debug\dögülerin kullanımı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\dögülerin kullanımı\obj\x86\Debug\dögülerin kullanımı.pdb

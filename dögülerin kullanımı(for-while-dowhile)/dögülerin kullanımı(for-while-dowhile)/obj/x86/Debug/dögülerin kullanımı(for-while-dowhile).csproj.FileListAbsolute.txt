@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\bin\Debug\dögülerin kullanımı(for-while-dowhile).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\bin\Debug\dögülerin kullanımı(for-while-dowhile).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin kullanımı(for-while-dowhile).csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin_kullanımı.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin_kullanımı.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin kullanımı(for-while-dowhile).csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin kullanımı(for-while-dowhile).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\dögülerin kullanımı(for-while-dowhile)\dögülerin kullanımı(for-while-dowhile)\obj\x86\Debug\dögülerin kullanımı(for-while-dowhile).pdb
